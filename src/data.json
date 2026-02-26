@@ -1,0 +1,1263 @@
+{
+  "animations": [
+    {
+      "title": "Анимация",
+      "items": [
+        {
+          "href": "https://daneden.github.io/animate.css/",
+          "title": "Animate.css",
+          "desc": "библиотека CSS анимаций"
+        },
+        {
+          "href": "https://www.minimamente.com/example/magic_animations/",
+          "title": "Magic",
+          "desc": "кроссбраузерные анимации"
+        },
+        {
+          "href": "http://shakrmedia.github.io/tuesday/",
+          "title": "It's Tuesday.",
+          "desc": "простые и приятные CSS анимации"
+        },
+        {
+          "href": "https://github.com/graingert/wow",
+          "title": "Wow.js",
+          "desc": "анимация при появлении элемента"
+        },
+        {
+          "href": "https://github.com/michalsnik/aos",
+          "title": "AOS.js",
+          "desc": "анимация при скролле"
+        },
+        {
+          "href": "http://ianlunn.github.io/Hover/",
+          "title": "Hover.css",
+          "desc": "набор анимаций CSS"
+        },
+        {
+          "href": "https://html5book.ru/css3-animation/",
+          "title": "CSS3-анимация",
+          "desc": "полная статья про анимацию на CSS3"
+        },
+        {
+          "href": "https://mciastek.github.io/sal/",
+          "title": "Sal.js",
+          "desc": "библиотека анимации прокрутки"
+        },
+        {
+          "href": "http://vivify.mkcreative.cz/",
+          "title": "Vivify",
+          "desc": "это библиотека анимации, которую я всегда считал улучшенной версией Animate CSS."
+        },
+        {
+          "href": "https://elrumordelaluz.github.io/csshake/",
+          "title": "CSShake.css",
+          "desc": "это библиотека CSS-анимации, которая содержит различные типы анимаций встряхивания."
+        },
+        {
+          "href": "https://kristofferandreasen.github.io/wickedCSS/",
+          "title": "WickedCSS.css",
+          "desc": "это небольшая библиотека CSS-анимации, в ней не так уж много вариантов анимаций, но те, которые у нее есть - великолепны."
+        },
+        {
+          "href": "https://animista.net/",
+          "title": "Animista",
+          "desc": "это набор готовых CSS-анимаций. В наборе имеются базовые анимации, анимации входа/выхода, а также анимации для текста и background."
+        },
+        {
+          "href": "https://emilkowalski.github.io/css-effects-snippets/",
+          "title": "CSSeffectsSnippets",
+          "desc": "коллекция CSS-эффектов, реализованная с помощью Vue.js.Чтобы скопировать CSS-стили, достаточно нажать на анимацию."
+        },
+        {
+          "href": "https://www.transition.style/",
+          "title": "transition.css",
+          "desc": "библиотека для создания эффектов перехода. Это CSS-библиотека, которая позволяет вам использовать различные transition-эффекты. В библиотеке более 40 эффектов и все они отлично кастомизируются."
+        },
+        {
+          "href": "https://webkul.github.io/micron/",
+          "title": "Micron.js",
+          "desc": "анимирует элемент, используя возможности CSS, а интерактивное поведение контролируется JavaScript."
+        },
+        {
+          "href": "https://github.com/jlmakes/scrollreveal",
+          "title": "ScrollReveal",
+          "desc": "библиотека для простой анимации элементов при прокрутке страницы."
+        },
+        {
+          "href": "https://animejs.com/",
+          "title": "Anime.js",
+          "desc": "легкая JavaScript-библиотека анимации с простым, но мощным API. Она работает с CSS-свойствами, SVG, атрибутами DOM и объектами JavaScript."
+        },
+        {
+          "href": "https://www.curtainsjs.com/",
+          "title": "Curtains.js",
+          "desc": "библиотека для анимации изображений и видео. Преобразует элементы HTML DOM в интерактивные текстурированные плоскости 3D WebGL."
+        },
+        {
+          "href": "https://splitting.js.org/",
+          "title": "Splitting.js",
+          "desc": "JavaScript-библиотека для создания креативного текстового контента с применением стилей и анимации."
+        },
+        {
+          "href": "https://gsap.com/",
+          "title": "GSAP",
+          "desc": "JavaScript-библиотека для создания высокопроизводительных анимаций, которые работают во всех основных браузерах. Анимируйте CSS, SVG, canvas, React, Vue, WebGL, цвета, строки, пути движения, общие объекты - всё, что может коснуться JavaScript."
+        },
+        {
+          "href": "https://rive.app/",
+          "title": "Rive Animations",
+          "desc": "Инструменты для создания анимаций, в том числе интерактивных (которые могут реагировать на действия пользователя), и встраивания этих анимаций в сайты и нативные приложения. Помимо этого, для WEB, есть NPM-пакет для встраивания анимации на сайт. По сути там идёт импорт файла с анимацией, который создавали в программе, и встраивание его в CANVAS на страницу."
+        },
+        {
+          "href": "https://anijs.github.io/",
+          "title": "AniJS",
+          "desc": "JavaScript-библиотека для создания анимаций без глубоких знаний JavaScript. Эта библиотека может быть полезна в дизайне интерфейсов, позволяя легко добавлять анимации к элементам."
+        },
+        {
+          "href": "https://github.com/Artoym715/smartcrop.js",
+          "title": "Smartcrop.js",
+          "desc": "JavaScript-библиотека для автоматического \"умного\" кадрирования изображений с учётом содержимого. Она находит наиболее важные участки на фото (например, лица или объекты) и обрезает изображение так, чтобы сохранить их в кадре."
+        }
+      ]
+    }
+  ],
+  "code": [
+    {
+      "title": "Редакторы кода",
+      "items": [
+        {
+          "href": "https://code.visualstudio.com/",
+          "title": "VS Code",
+          "desc": "мощный редактор (IDE)"
+        },
+        {
+          "href": "https://www.sublimetext.com/",
+          "title": "Sublime text",
+          "desc": "удобный и быстрый редактор кода"
+        },
+        {
+          "href": "https://notepad-plus-plus.org/",
+          "title": "Notepad ++",
+          "desc": "легендарный редактор"
+        },
+        {
+          "href": "https://code.visualstudio.com/docs/editor/userdefinedsnippets",
+          "title": "VS\r\t\t\t\t\t\t\t\t\tCode snipets doc",
+          "desc": "описание пользовательских снипетов от vscode"
+        },
+        {
+          "href": "https://vscodethemes.com/",
+          "title": "VS Code Themes",
+          "desc": "Каталог тем для VSCode"
+        }
+      ]
+    },
+    {
+      "title": "Песочницы для кода",
+      "items": [
+        {
+          "href": "https://jsfiddle.net/",
+          "title": "JS fiddle",
+          "desc": "Песочница для JavaScript"
+        },
+        {
+          "href": "http://www.codepen.io/",
+          "title": "CodePen",
+          "desc": "Песочница для HTML, CSS о JS"
+        },
+        {
+          "href": "https://jsbin.com/",
+          "title": "JS Bin",
+          "desc": "Песочница с выводом в консолью"
+        },
+        {
+          "href": "https://interview.cups.online/live-coding/?room=aaf11a68-51e1-481d-a790-4e7c63ba1628",
+          "title": "Mail.ru\r\t\t\t\t\t\t\t\t\tGroup",
+          "desc": "браузерный редактор кода на языках Java, Python, PHP, C++, Node.JS, Swift и других. Все работает в браузере, регистрация не требуется."
+        }
+      ]
+    },
+    {
+      "title": "Проверка кода",
+      "items": [
+        {
+          "href": "https://caniuse.com/",
+          "title": "Can I Use",
+          "desc": "Кроссбраузерность кода"
+        },
+        {
+          "href": "http://validator.w3.org/",
+          "title": "Validator W3",
+          "desc": "Валидность HTML-кода"
+        },
+        {
+          "href": "https://search.google.com/test/mobile-friendly",
+          "title": "Mobile Friendly",
+          "desc": "Оптимизирована ли ваша страница для мобильных устройств"
+        },
+        {
+          "href": "http://www.siteliner.com",
+          "title": "Find Dublicate Content on your site",
+          "desc": "Проверка уникальности текста на сайте"
+        },
+        {
+          "href": "https://ru.piliapp.com/javascript-validator/",
+          "title": "Piliapp",
+          "desc": "Валидность JS-кода"
+        },
+        {
+          "href": "https://typeratio.com/",
+          "title": "Typeratio",
+          "desc": "onлайн-инструмент для подбора межстрочного интервала, в зависимости от размера шрифта."
+        },
+        {
+          "href": "https://github.com/csswizardry/ct",
+          "title": "ct.css",
+          "desc": "инструмент для поиска потенциальных проблем быстродействия в содержимом тега head на вашей странице."
+        }
+      ]
+    },
+    {
+      "title": "Справочники",
+      "items": [
+        {
+          "href": "http://html5book.ru/",
+          "title": "html5book",
+          "desc": "Статьи + справочник"
+        },
+        {
+          "href": "http://webref.ru/",
+          "title": "webref",
+          "desc": "Подробный справочник на русском"
+        },
+        {
+          "href": "https://developer.mozilla.org/ru",
+          "title": "MDN",
+          "desc": "Справочник MDN"
+        },
+        {
+          "href": "https://doka.guide/",
+          "title": "Дока",
+          "desc": "это документация для разработчиков на понятном языке. Её пишет сообщество, чтобы помогать друг другу. Ваши знания и опыт важны. Делитесь ими, мы поможем."
+        },
+        {
+          "href": "https://devdocs.io/",
+          "title": "Devdocs",
+          "desc": "простые и понятные документации по любой технологии!"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "title": "Наборы компонентов для верстальщика",
+      "items": [
+        {
+          "href": "https://smolcss.dev/",
+          "title": "SmolCSS",
+          "desc": "Минималистичная коллекция фрагментов и компонентов на CSS для создания адаптивных макетов. С помощью сервиса вы сможете ускорить разработку сайта."
+        },
+        {
+          "href": "https://buefy.org/",
+          "title": "Buefy",
+          "desc": "Библиотека адаптивных UI-компонентов для Vue.js, основанная на дизайне Bulma."
+        },
+        {
+          "href": "https://formik.org/",
+          "title": "Formik",
+          "desc": "Библиотека форм с открытым исходным кодом для React и React Native."
+        },
+        {
+          "href": "https://codyhouse.co/ds/components",
+          "title": "CodeHouse",
+          "desc": "крутые подборки готовых решений на CSS и jQuery без плагинов"
+        },
+        {
+          "href": "https://shoelace.style/",
+          "title": "Shoelace",
+          "desc": "универсальная библиотека UI-компонентов"
+        },
+        {
+          "href": "https://html5boilerplate.com/",
+          "title": "BOILERPLATE",
+          "desc": "Самый популярный начальный HTML шаблон для нового проекта."
+        },
+        {
+          "href": "https://github.com/you-dont-need/You-Dont-Need-JavaScript",
+          "title": "Подборка\r\t\t\t\t\t\t\t\t\tприёмов на чистом CSS без JS",
+          "desc": "Подборка демо-реализаций тех или иных технологий без JS, используя лишь CSS."
+        },
+        {
+          "href": "https://flowbite.com/",
+          "title": "Flowbite",
+          "desc": "Коллекция готовых компонентов интерфейса на Tailwind CSS."
+        },
+        {
+          "href": "https://spectrum.art/",
+          "title": "Spectrum Art",
+          "desc": "Коллекция готовых цветовых схем для веб-сайтов."
+        },
+        {
+          "href": "https://github.com/uber/react-vis",
+          "title": "React-vis",
+          "desc": "Библиотека React-компонентов для визуализации данных в React-приложениях."
+        },
+        {
+          "href": "https://github.com/fkhadra/react-toastify",
+          "title": "React-Toastify",
+          "desc": "Настраиваемая библиотека React для добавления уведомлений в приложение."
+        },
+        {
+          "href": "https://htmx.org/",
+          "title": "HTMX",
+          "desc": "библиотека для JavaScript с открытым исходным кодом, которая позволяет создавать динамические и интерактивные веб-приложения без необходимости написания сложного кода на стороне сервера. Некоторые возможности HTMX: Обработка событий. Библиотека позволяет разработчикам легко добавлять интерактивные элементы на веб-страницы. Отправка запросов AJAX в фоновом режиме с обновлением отдельных компонентов без перезагрузки всей страницы. Двусторонняя привязка данных. Позволяет синхронизировать информацию между HTML и JavaScript. Это упрощает отображение и обновление данных в реальном времени. Автоматическое обновление. Библиотека может автоматически обновлять части страницы на основе интервалов или событий. Поддержка push-событий. Библиотека поддерживает push-события, позволяя серверу отправлять обновления клиентам в режиме реального времени."
+        },
+        {
+          "href": "https://uiverse.io/",
+          "title": "Uiverse",
+          "desc": "Наборы готовых HTML, CSS и JS компонетов для сайта."
+        },
+        {
+          "href": "https://css-loaders.com/",
+          "title": "Сss-loader",
+          "desc": "огромная коллекция css-лоудеров для сайта."
+        }
+      ]
+    }
+  ],
+  "crib": [
+    {
+      "title": "Шпаргалки",
+      "items": [
+        {
+          "href": "http://yoksel.github.io/flex-cheatsheet/",
+          "title": "FlexBox",
+          "desc": "шпаргалка по Flexbox"
+        },
+        {
+          "href": "https://html5book.ru",
+          "title": "Html5book",
+          "desc": "шпаргалка по HTML, CSS, JavaScript и jQuery"
+        },
+        {
+          "href": "http://htmlbook.ru/css-cheat-sheet",
+          "title": "HTML Book",
+          "desc": "шпаргалка по HTML и CSS"
+        },
+        {
+          "href": "https://adam-marsden.co.uk/css-cheat-sheet",
+          "title": "CSS Cheat Sheet",
+          "desc": "шпаргалка по CSS"
+        },
+        {
+          "href": "http://jquery.page2page.ru/",
+          "title": "jQuery page2page",
+          "desc": "шпаргалка по jQuery"
+        },
+        {
+          "href": "https://docs.emmet.io/cheat-sheet/",
+          "title": "Emmet Cheat Sheet",
+          "desc": "шпаргалка по Emmet"
+        },
+        {
+          "href": "https://webref.ru/",
+          "title": "WebReference",
+          "desc": "ещё одна шпаргалка по HTML5 и CSS3. Также данный сайт опубликовал свои шпаргалки в виде приложений на Google Play."
+        },
+        {
+          "href": "https://easings.net/ru",
+          "title": "Easings",
+          "desc": "Шпаргалка функций плавности"
+        },
+        {
+          "href": "https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/",
+          "title": "FreeCodeCamp",
+          "desc": "Шпаргалка по FlexBox"
+        },
+        {
+          "href": "https://habr.com/ru/post/332382/",
+          "title": "Habr",
+          "desc": "Шпаргалка по LESS и SASS"
+        },
+        {
+          "href": "https://learngitbranching.js.org/",
+          "title": "LearnGitBranching",
+          "desc": "это приложение создано, чтобы помочь новичкам постичь мощные возможности ветвления и работы с git. Приложение реализовано в виде игры и отображается на русском языке."
+        },
+        {
+          "href": "https://www.einscms.com/modal/#start",
+          "title": "EinsCMS Modal",
+          "desc": "библиотека для создания модальных окон. Это новая JavaScript библиотека, которая поможет вам быстро создавать модальные окна для вашего сайта. Она проста в использовании и работать с ней сможет даже тот, кто не знает JS.Библиотека написана без зависимостей и хорошо документирована. Модальные окна отлично отображаются на любых разрешениях экрана. Кроме того, она нормально работает практически во всех браузерах, даже в IE9. Для модальных окон доступна темная и светлая тема, можно создавать и свои."
+        },
+        {
+          "href": "https://grep.app/",
+          "title": "grep.app",
+          "desc": "полезный инструмент, который ведёт поиск по открытым репозиториям на GitHub и находит вхождения указанного фрагмента кода. Как указано на главной странице, в базе сервиса находится полмиллиона репозиториев."
+        },
+        {
+          "href": "https://bem-cheat-sheet.9elements.com/",
+          "title": "Отличная шпаргалка по BEM",
+          "desc": "лучше просто не существует."
+        }
+      ]
+    }
+  ],
+  "css": [
+    {
+      "title": "Генераторы",
+      "items": [
+        {
+          "href": "https://color.hailpixel.com/",
+          "title": "Hailpixel",
+          "desc": "простой способ подобрать цвет в CSS"
+        },
+        {
+          "href": "https://cssgradient.io/",
+          "title": "CSSgradient",
+          "desc": "градиент генератор"
+        },
+        {
+          "href": "https://leaverou.github.io/css3patterns/#",
+          "title": "CSS3patterns",
+          "desc": "CSS паттерны"
+        },
+        {
+          "href": "https://freefrontend.com/css-background-patterns/",
+          "title": "FreeFrontend",
+          "desc": "CSS паттерны"
+        },
+        {
+          "href": "https://colorscheme.ru/color-converter.html",
+          "title": "ColorScheme",
+          "desc": "конвертер цветов"
+        },
+        {
+          "href": "http://cssworld.ru/flex/",
+          "title": "CSSworld",
+          "desc": "Генератор flexbox контейнеров"
+        },
+        {
+          "href": "https://basicweb.ru/css/flexbox_generator.php",
+          "title": "Генератор Flexbox\r\t\t\t\t\t\t\t\t\tверстки",
+          "desc": "Конструктор Flexbox"
+        },
+        {
+          "href": "https://basicweb.ru/css/grid_generator.php",
+          "title": "Генератор Grid\r\t\t\t\t\t\t\t\t\tверстки",
+          "desc": "Конструктор Grid"
+        },
+        {
+          "href": "https://snippet-generator.app/",
+          "title": "Snippet-generator",
+          "desc": "генератор снипетов."
+        },
+        {
+          "href": "https://www.cssbuttongenerator.com/",
+          "title": "CSS Button Generator",
+          "desc": "CSS-Генератор кнопок для сайтов."
+        }
+      ]
+    },
+    {
+      "title": "Reset CSS",
+      "items": [
+        {
+          "href": "https://necolas.github.io/normalize.css/",
+          "title": "Normalize.css",
+          "desc": "библеотека для сброса стилей альтернатива CSS Reset"
+        }
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "title": "Шрифты",
+      "items": [
+        {
+          "href": "http://fonts.google.com/",
+          "title": "Google Fonts",
+          "desc": "Веб-шрифты от Google"
+        },
+        {
+          "href": "https://transfonter.org/",
+          "title": "Transfonter",
+          "desc": "Конвертер веб-шрифтов"
+        },
+        {
+          "href": "https://fontstorage.com/tools/",
+          "title": "FontStorage",
+          "desc": "Плагин, простой способ подключить шрифт"
+        },
+        {
+          "href": "https://devfonts.gafi.dev/",
+          "title": "Dev Fonts",
+          "desc": "список лучших шрифтов для программирования с предварительным просмотром."
+        },
+        {
+          "href": "https://fontello.com/",
+          "title": "Fontello",
+          "desc": "генератор шрифтов с открытым исходным кодом, который автоматически собирает шрифт, содержащий только выбранные пользователем символы. Просто отмечаете символы, которые вам нравятся, и нажимаете кнопку «Download webfont»."
+        },
+        {
+          "href": "https://typescale.com/",
+          "title": "Typescale",
+          "desc": "Онлайн-сервис для расчета текста. Работает он как визуальный калькулятор для определения размера шрифтовой системы. Введите свой базовый размер и какой масштаб вы хотите использовать, и вы получите лучший размер для заголовков, подзаголовков и основных текстовых блоков."
+        },
+        {
+          "href": "https://modern-fluid-typography.vercel.app/",
+          "title": "clamp",
+          "desc": "На этом сервисе можно наглядно увидеть, при какой ширине экрана произойдут изменения font-size. Для этого надо выставить максимальный и минимальный размер шрифта (можно взять из макета) и менять значение relative size и fluid size, чтобы меня кривую изменений."
+        },
+        {
+          "href": "http://bitshadow.github.io/iconate/",
+          "title": "Iconate",
+          "desc": "JavaScript-библиотека для добавления анимации статичным шрифтовым иконкам."
+        }
+      ]
+    }
+  ],
+  "graphics": [
+    {
+      "title": "Работа с изображениями",
+      "items": [
+        {
+          "href": "https://compressor.io/",
+          "title": "Сompressor",
+          "desc": "Сжимает JPG и PNG"
+        },
+        {
+          "href": "https://tinypng.com/",
+          "title": "Tiny png",
+          "desc": "Сжимает изображения. Есть API."
+        },
+        {
+          "href": "https://www.vectorizer.io/",
+          "title": "Vectorizer",
+          "desc": "Из растрового в векторное изображение"
+        },
+        {
+          "href": "https://www.online-convert.com/",
+          "title": "Online-Convert",
+          "desc": "Бесплатный конвертер из растрового в векторное изображение"
+        },
+        {
+          "href": "https://squoosh.app/",
+          "title": "Squoosh",
+          "desc": "онлайн-инструмент сжатия изображений от Google"
+        },
+        {
+          "href": "https://yoksel.github.io/url-encoder/ru/",
+          "title": "URL-encoder",
+          "desc": "URL-encoder для SVG. SVG можно использовать в CSS через data URI, но вставку незакодированного SVG поддерживают только браузеры на Webkit. Если закодировать SVG с помощью encodeURIComponent() — SVG начинает отображаться во всех современных браузерах."
+        },
+        {
+          "href": "https://www.photoroom.com/background-remover/",
+          "title": "Background Remover",
+          "desc": "бесплатный инструмент от PhotoRoom для быстрого удаления фона изображения."
+        },
+        {
+          "href": "https://imageupscaler.com/",
+          "title": "Image Upscaler",
+          "desc": "нейросетевой увеличитель изображений, если вам досталась маленькая картинка, а дизайнер уже в отпуске."
+        },
+        {
+          "href": "https://picsum.photos/images",
+          "title": "Lorem Picsum",
+          "desc": "генерирует случайные картинки-плейсхолдеры любого нужного вам размера."
+        },
+        {
+          "href": "https://www.remove.bg/",
+          "title": "Remove.bg",
+          "desc": "неплохо удаляет фон у любого изображения и экономит массу времени."
+        },
+        {
+          "href": "https://figen.cc/",
+          "title": "Figen",
+          "desc": "бесплатный онлайн-инструмент для создания обложек и фонов. Можно использовать для создания обложек статей в блогах."
+        },
+        {
+          "href": "https://extract.pics/",
+          "title": "Image Extractor",
+          "desc": "бесплатный и простой в использовании инструмент, который позволяет извлекать, сортировать и скачивать изображения с любого общедоступного веб-сайта. Просто вставьте URL-адрес веб-сайта в поле ввода и нажмите «Extract», чтобы начать процесс."
+        },
+        {
+          "href": "https://github.com/bansal/filters.css",
+          "title": "Filters.css",
+          "desc": "CSS-only библиотека, которая предоставляет набор фильтров для фотографий, построена с помощью SCSS. Поддерживает все современные браузеры."
+        },
+        {
+          "href": "https://simpleish.io",
+          "title": "Simpleish",
+          "desc": "Онлайн-инструмент для автоматического удаления фона изображения за 5 секунд одним щелчком мыши."
+        },
+        {
+          "href": "https://customizer.github.io/svg.js-ru/svg.js-ru.htm",
+          "title": "SVG.js",
+          "desc": "JavaScript-библиотека для управления и анимации векторной графики в формате SVG."
+        },
+        {
+          "href": "https://www.cutout.pro/photo-enhancer-sharpener-upscaler",
+          "title": "AI Image\r\t\t\t\t\t\t\t\t\tEnhancer",
+          "desc": "Сервис по улучшению качества фотографий одним щелчком мыши. Бесплатно и без ограничений."
+        },
+        {
+          "href": "https://www.iloveimg.com/ru",
+          "title": "iLoveIMG",
+          "desc": "Бесплатный онлайн-редактор изображений."
+        },
+        {
+          "href": "https://ripolas.org/background-remover/",
+          "title": "Ripolas Background Remover",
+          "desc": "Инструмент для мгновенного и бесплатного удаления фона с любых изображений в полном разрешении. Работает быстро и просто, без водяных знаков и регистрации."
+        }
+      ]
+    },
+    {
+      "title": "Иконки и графика",
+      "items": [
+        {
+          "href": "https://www.flaticon.com/",
+          "title": "Flaticons",
+          "desc": "бесплатные векторные иконки"
+        },
+        {
+          "href": "https://seeklogo.com/",
+          "title": "Seeklogo",
+          "desc": "векторные логотипы компаний"
+        },
+        {
+          "href": "https://svgporn.com/",
+          "title": "SVG Porn",
+          "desc": "векторные логотипы"
+        },
+        {
+          "href": "http://toplogos.ru/",
+          "title": "TOP Logos",
+          "desc": "логотипы компаний (русские)"
+        },
+        {
+          "href": "http://fontawesome.com/",
+          "title": "Font Awesome",
+          "desc": "иконочный шрифт + SVG"
+        },
+        {
+          "href": "https://utf8-icons.com/",
+          "title": "UTF-8 Icons",
+          "desc": "иконки на utf-8"
+        },
+        {
+          "href": "https://fontello.com/",
+          "title": "Fontello",
+          "desc": "шрифтовые иконки. Шрифты генерируются на ходу из выбранных иконок, доступны иконки из 14 популярных шрифтов."
+        },
+        {
+          "href": "https://iconmonstr.com/",
+          "title": "IconMonster",
+          "desc": "бесплатные векторные иконки"
+        },
+        {
+          "href": "https://icomoon.io/app/#/select",
+          "title": "IcoMoon",
+          "desc": "векторные иконки"
+        },
+        {
+          "href": "https://colorhunt.co/",
+          "title": "ColorHunt",
+          "desc": "это сервис по подбору цветов"
+        },
+        {
+          "href": "https://heroicons.com/",
+          "title": "Heroicons",
+          "desc": "Красивые иконки SVG ручной работы от создателей Tailwind CSS."
+        },
+        {
+          "href": "https://tabler-icons.io/",
+          "title": "Tabler Icons",
+          "desc": "набор из более чем 1250 бесплатных высококачественных SVG-иконок с лицензией MIT.Каждая иконка рассчитана на сетку 24x24px и имеет толщину линий в 2px."
+        },
+        {
+          "href": "https://www.favicon-generator.org/",
+          "title": "Favicon Generator",
+          "desc": "Генератор иконок."
+        },
+        {
+          "href": "https://cssgradient.io/gradient-backgrounds/",
+          "title": "Gradient\r\t\t\t\t\t\t\t\t\tBackgrounds",
+          "desc": "тщательно подобранный список лучших веб-сайтов в Интернете по градиентам, позволяющий исследовать, пробовать и выбирать из сотен красивых смешанных цветовых палитр."
+        },
+        {
+          "href": "https://www.drawkit.io/free-icons",
+          "title": "DrawKit.io",
+          "desc": "Это — качественные, профессиональные векторные рисунки, которые можно использовать на сайтах без ссылки на их источник."
+        },
+        {
+          "href": "http://imagehover.io/",
+          "title": "imagehover.css",
+          "desc": "библиотека hover-эффектов для фотографий."
+        },
+        {
+          "href": "http://pngimg.com/",
+          "title": "pngimg.com",
+          "desc": "библиотека c 100 000 + бесплатных PNG изображений для веба."
+        },
+        {
+          "href": "https://illlustrations.co/",
+          "title": "illustrations kit",
+          "desc": "набор бесплатных иллюстраций с открытым исходным кодом. В комплекте более 120 иллюстраций. Можно скачать в SVG и PNG форматах."
+        },
+        {
+          "href": "https://github.com/astrit/css.gg",
+          "title": "UI-иконки",
+          "desc": "коллекция более 700 UI-иконок в форматах CSS, SVG и Figma с открытым исходным кодом, доступные в SVG Sprite, styled-components, NPM и API."
+        },
+        {
+          "href": "https://lineicons.com/",
+          "title": "Line Icons",
+          "desc": "кколлекция из более 5000 бесплатных линейных иконок, созданных вручную для дизайнеров и разработчиков. Иконки разделены на более 40 различных категорий - просто выберите иконку, отредактируйте размер/цвет, скопируйте код иконки или загрузите SVG и начните использовать в своем проекте."
+        },
+        {
+          "href": "https://www.pexels.com/ru-ru/",
+          "title": "Pexels",
+          "desc": "лучшие бесплатные стоковые фото и видео от талантливых авторов."
+        },
+        {
+          "href": "https://unsplash.com/",
+          "title": "Unsplash",
+          "desc": "бесплатные изображения по лицензии CC0. Есть отличное API для встраивания графики в ваши приложения."
+        },
+        {
+          "href": "https://fonts.google.com/icons",
+          "title": "Material design icons",
+          "desc": "набор из более 900 векторных иконок от Google, которые можно стилизовать с помощью CSS. Иконки созданы в соответствии с рекомендациями по материальному дизайну."
+        },
+        {
+          "href": "https://3dicons.co/",
+          "title": "3D icons",
+          "desc": "коллекция более 120 бесплатных качественных 3D-иконок, которые вы можете использовать в своих проектах."
+        },
+        {
+          "href": "https://iradesign.io/",
+          "title": "Ira Design",
+          "desc": "конструктор бесплатных векторных иллюстраций. Есть возможность комбинировать 5 цветов градиента к каждому персонажу, которого вы хотите использовать в своем проекте."
+        },
+        {
+          "href": "https://fonts.google.com/icons",
+          "title": "Иконки Material Symbols",
+          "desc": "Большой каталог иконок на все случаи жизни от Google. Можно подключить все сразу через шрифт (не рекомендую из-за большого размера). Или скачивать отдельно нужные иконки в формате SVG или PNG."
+        },
+        {
+          "href": "https://multiple.js.org/",
+          "title": "Multiple.js",
+          "desc": "JavaScript-библиотека, позволяющая использовать одно фоновое изображение для нескольких элементов с помощью CSS."
+        }
+      ]
+    },
+    {
+      "title": "Работа с дизайн-макетами",
+      "items": [
+        {
+          "href": "https://zeplin.io/",
+          "title": "Zeplin",
+          "desc": "работа с дизайн-макетами в браузере. Есть экспорт кода."
+        },
+        {
+          "href": "https://studio.psdetch.com/",
+          "title": "PSD Tech",
+          "desc": "бесплатный аналог Avocode."
+        },
+        {
+          "href": "https://www.markupeasy.ru/",
+          "title": "Figma",
+          "desc": "Онлайн-сервис для разработки интерфейсов и прототипирования. Сервис доступен по подписке, предусмотрен бесплатный тарифный план для одного пользователя."
+        },
+        {
+          "href": "https://pixso.net/ru/",
+          "title": "Pixso(Аналог Фигма)",
+          "desc": "Онлайн-сервис для разработки интерфейсов и прототипирования."
+        },
+        {
+          "href": "https://pofig.me/",
+          "title": "Хелп по Фигме",
+          "desc": "уроки, видео, советы, фишки."
+        },
+        {
+          "href": "https://excalidraw.com/",
+          "title": "Excalidraw",
+          "desc": "Если нужно быстро накидать эскиз для сайта, приложения или просто визуализировать идею, Ключевые фишки: ⏩Простота использования ⏩Совместная работа ⏩Бесплатно ⏩Экспорт в PNG или SVG."
+        }
+      ]
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Лайфхаки для верстальщика",
+      "items": [
+        {
+          "href": "http://howtocenterincss.com/",
+          "title": "How To Center in CSS",
+          "desc": "центрируйте всё"
+        },
+        {
+          "href": "https://learngitbranching.js.org/",
+          "title": "Learn Git Branching",
+          "desc": "интерактивный учебник по Git"
+        },
+        {
+          "href": "http://www.flexboxdefense.com/",
+          "title": "Flexbox Defense",
+          "desc": "игра для изучения Flexbox"
+        },
+        {
+          "href": "http://cssgridgarden.com/#ru",
+          "title": "GRID GARDEN",
+          "desc": "игра для изучения Grid"
+        },
+        {
+          "href": "https://habr.com/ru/company/ruvds/blog/485640/",
+          "title": "Habr",
+          "desc": "Методы скрытия элементов веб-страниц"
+        },
+        {
+          "href": "https://browserdefaultstyles.com/",
+          "title": "Browser Default Styles",
+          "desc": "сервис для поиска дефолтных стилей HTML-элементов в разных браузерах."
+        },
+        {
+          "href": "https://www.taskade.com/",
+          "title": "Taskade",
+          "desc": "таск-менеджер для командной работы. Делитесь своими проектами, общайтесь с товарищами по команде и отслеживайте изменения в реальном времени на всех устройствах."
+        },
+        {
+          "href": "https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU",
+          "title": "CSS\r\t\t\t\t\t\t\t\t\tProtips",
+          "desc": "коллекция советов, которые помогут вам стать лучше в CSS."
+        },
+        {
+          "href": "https://github.com/Nickersoft/push.js",
+          "title": "Push.js",
+          "desc": "инструмент для реализации push-уведомлений."
+        },
+        {
+          "href": "https://kolumna.dazlog.com/",
+          "title": "Kolumna",
+          "desc": "онлайн-инструмент, который помогает рассчитать размер сетки для разных разрешений экрана."
+        },
+        {
+          "href": "https://editorjs.io/",
+          "title": "Editor.js",
+          "desc": "это простая и привлекательная JS-библиотека, реализующая простой текстовый редактор."
+        },
+        {
+          "href": "https://howlerjs.com/",
+          "title": "Howler.js",
+          "desc": "Библиотека Howler.js направлена на решение различных задач, связанных со звуком на странице."
+        },
+        {
+          "href": "https://revealjs.com/",
+          "title": "Reveal.js",
+          "desc": "Библиотека Reveal.js направлена на создание презинтаций на странице."
+        },
+        {
+          "href": "https://www.chartjs.org/",
+          "title": "Chart.js",
+          "desc": "предназначенная для представления данных с помощью диаграмм. В частности, она позволят строить столбчатые, круговые, точечные диаграммы и диаграммы других видов."
+        },
+        {
+          "href": "https://driverjs.com/",
+          "title": "Driver",
+          "desc": "Библиотека для создания ознакомительных туров на сайте, чтобы показать куда кликать."
+        }
+      ]
+    },
+    {
+      "title": "Полезные сайты",
+      "items": [
+        {
+          "href": "https://pcvector.net/",
+          "title": "pcvector.net",
+          "desc": "Сайт с большим количеством различных плагинов RUS"
+        },
+        {
+          "href": "https://metatags.io/",
+          "title": "Metatags.io",
+          "desc": "применяется для исследования внешнего вида моих сайтов, выводимых в областях предварительного просмотра на ресурсах Google, Facebook или Twitter. Metatags.io позволяет увидеть заголовок, описание и изображение, соответствущие сайту, в точно таком же представлении, как их видит посетитель вышеупомянутых ресурсов.Туда, кроме того, можно загружать собственные изображения и модифицировать теги, соответствующие заголовку и описанию сайта, экспериментировать с ними, не меняя ничего на самом сайте."
+        },
+        {
+          "href": "http://extractcss.com/",
+          "title": "ExtractCSS.com",
+          "desc": "применяется для извлечения из HTML-документов сведений о разнообразных стилях HTML-документов (речь идёт о стилях, назначаемых идентификаторам и классам элементов, о встроенных стилях) и для формирования на их основе CSS-кода."
+        },
+        {
+          "href": "https://www.whatruns.com/",
+          "title": "Whatruns.com",
+          "desc": "приходит мне на помощь в ситуациях, когда надо узнать подробности об устройстве какого-нибудь сайта. Речь идёт о темах и плагинах, используемых на сайтах, о серверах, на которых они размещены.Whatruns можно установить в Firefox и Chrome."
+        },
+        {
+          "href": "https://unminify.com/",
+          "title": "Unminify.com",
+          "desc": "позволяет превращать минифицированный (упакованный, обфусцированный) код (JavaScript, CSS, HTML, XML, JSON) в удобный для восприятия вид."
+        },
+        {
+          "href": "https://responsively.app/",
+          "title": "Responsively.app",
+          "desc": "даёт веб-разработчику инструмент для одновременной проверки внешнего вида его сайта на разных устройства."
+        },
+        {
+          "href": "https://bootstraptema.ru/",
+          "title": "Bootstraptema",
+          "desc": "4574+ Всё для Bootstrap.Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap."
+        },
+        {
+          "href": "https://domevents.dev/",
+          "title": "DOM Events",
+          "desc": "интерактивная визуализация механизма работы DOM-событий."
+        },
+        {
+          "href": "https://yesviz.com/devices.php",
+          "title": "yesviz.com/devices",
+          "desc": "Шпаргалки по параметрам различных устройств для медиа-запросов.Кликните на интересующее вас устройство и найдете много информации, включая готовые медиа-запросы для этого устройства, даже с учетом соотношения сторон."
+        },
+        {
+          "href": "https://webcode.tools/",
+          "title": "Webcode,tools",
+          "desc": "Это онлайн-инструмент для генерации и настройки различных HTML, CSS и JS кода, который помогает разработчикам быстро создавать веб-элементы и видеть результаты в реальном времени."
+        },
+        {
+          "href": "https://code-basics.com/ru",
+          "title": "Code Basics",
+          "desc": "Это полностью бесплатная платформа для обучения it (айти) с нуля. Code Basics был создан разработчиками и сообществом школы программирования Хекслет для того, чтобы любой желающий мог попробовать себя в программировании и заложить правильный фундамент для новой профессии, основанный не на запоминании специфики, а на понимании системы в целом. Одна из ключевых фишек проекта это тренажер по программированию."
+        },
+        {
+          "href": "https://seostudio.tools/",
+          "title": "SEOStudio",
+          "desc": "бесплатные инструменты для SEO, работы с текстом, веб-разработки и т. д.."
+        }
+      ]
+    }
+  ],
+  "js": [
+    {
+      "title": "Полезные jQuery/JS плагины",
+      "items": []
+    }
+  ],
+  "laravel": [
+    {
+      "title": "Laravel",
+      "items": [
+        {
+          "href": "http://mobiledetect.net/",
+          "title": "Editor JS",
+          "desc": "позволяет реализовать блочный конструктор контента в админке. Его основная фишка в том, что результат хранится в базе данных в формате JSON, а каждый клиент (браузер, мобильное приложение) может рисовать итоговый контент как ему нужно."
+        },
+        {
+          "href": "https://moonshine.cutcode.dev/?change-moonshine-locale=ru",
+          "title": "MoonShine",
+          "desc": "Простая, бесплатная и красивая панель администрирования для Laravel. Документация на русском языке"
+        },
+        {
+          "href": "https://orchid.software/",
+          "title": "Orchid",
+          "desc": "это мощное и простое в использовании решение для создания панели администратора и линейки бизнес-приложений. Благодаря подходу, основанному на коде, вы можете быстро и легко создавать эффективные приложения. Документация на русском языке."
+        },
+        {
+          "href": "https://filamentphp.com/",
+          "title": "Filament",
+          "desc": "мощная панель для создания личных кабинетов и админок на Laravel."
+        },
+        {
+          "href": "https://defstudio.github.io/telegraph/",
+          "title": "Telegraph",
+          "desc": "это пакет Laravel для свободного взаимодействия с ботами Telegram."
+        },
+        {
+          "href": "https://laravel-mix.com/",
+          "title": "Laravel Mix",
+          "desc": "Сборщик проектов проще чем Gulp."
+        },
+        {
+          "href": "https://laravel-package-ocean.com/",
+          "title": "Laravel Ocean Package",
+          "desc": "новые и полезные пакеты Laravel в одном месте."
+        },
+        {
+          "href": "https://pulse.laravel.com/",
+          "title": "Laravel Pulse",
+          "desc": "Пакет для Laravel, который позволяет смотреть данные о нагрузке на сервер, производительности и использовании приложения в удобном графическом интерфейсе. С помощью Pulse можно отслеживать узкие места, такие как медленные задания и роуты, находить наиболее активных пользователей и многое другое."
+        },
+        {
+          "href": "https://www.codeandweb.com/babeledit",
+          "title": "BabelEdit",
+          "desc": "Программа на компьютер для работы с файлами переводов текста в мультиязычных проектах."
+        },
+        {
+          "href": "https://github.com/prog-time/tg-support-bot",
+          "title": "TG Support Bot",
+          "desc": "бот для технической поддержки (Telegram | ВКонтакте)."
+        },
+        {
+          "href": "https://nightwatch.laravel.com/",
+          "title": "Laravel Nightwatch",
+          "desc": "это первоклассный глубокий мониторинг и аналитика для приложений Laravel."
+        }
+      ]
+    }
+  ],
+  "other": [
+    {
+      "title": "Прочее",
+      "items": [
+        {
+          "href": "https://coverr.co/",
+          "title": "Coverr",
+          "desc": "Короткие видео для фона на сайт"
+        },
+        {
+          "href": "https://www.toptal.com/designers/subtlepatterns/",
+          "title": "Subte\r\t\t\t\t\t\t\t\t\tPatterns",
+          "desc": "Фоны для сайта"
+        },
+        {
+          "href": "https://tools.yaroshenko.by/utm.php",
+          "title": "Генератор UTM-меток",
+          "desc": ""
+        },
+        {
+          "href": "http://underscores.me/",
+          "title": "Underscores",
+          "desc": "Пустая тема для Wordpress"
+        },
+        {
+          "href": "https://www.minifier.org/",
+          "title": "Minify",
+          "desc": "CSS и JS минификатор"
+        },
+        {
+          "href": "https://unminify.com/",
+          "title": "Unminify",
+          "desc": "Анминификатор для HTML, CSS, JS"
+        },
+        {
+          "href": "https://codewars.com",
+          "title": "CodeWars",
+          "desc": "Задачи для тренировки JavaScript кода"
+        },
+        {
+          "href": "https://www.freeformatter.com/",
+          "title": "FreeFormatter.com",
+          "desc": "Vинификатор"
+        },
+        {
+          "href": "https://blisk.io/",
+          "title": "Blisk",
+          "desc": "Браузер для разработчиков"
+        },
+        {
+          "href": "https://alvarotrigo.com/fullPage/ru/",
+          "title": "fullpage js",
+          "desc": "для постраничного скроллинга разделов сайта"
+        },
+        {
+          "href": "https://darkmodejs.learn.uno/",
+          "title": "Darkmode.js",
+          "desc": "библиотека для применения тёмного / ночного режима на любом из ваших сайтов."
+        },
+        {
+          "href": "https://nosir.github.io/cleave.js/",
+          "title": "Cleave.js",
+          "desc": "библиотека, которая поможет вам автоматически форматировать вводимый текстовый контент."
+        },
+        {
+          "href": "https://github.com/Grsmto/simplebar",
+          "title": "SimpleBar",
+          "desc": "Скролл для блока."
+        },
+        {
+          "href": "https://github.com/pepelsbey/playground",
+          "title": "Дэмки",
+          "desc": "Демо для видеоблога Вадима Макеева ."
+        },
+        {
+          "href": "https://github.com/maxdenaro/maxgraph-youtube-source",
+          "title": "Maxgraph",
+          "desc": "Исходники из видео youtube-канала \"Maxgraph - сайты как страсть\"."
+        },
+        {
+          "href": "https://easymoney.now.sh/",
+          "title": "Easymoney",
+          "desc": "библиотека для работы с денежными значениями в JavaScript и Typescript."
+        },
+        {
+          "href": "https://bossanova.uk/jexcel/v4/",
+          "title": "jExcel CE",
+          "desc": "легкий плагин Vanilla JavaScript для создания потрясающих интерактивных веб-таблиц и таблиц HTML, совместимых с Excel или любым другим программным обеспечением для работы с электронными таблицами."
+        },
+        {
+          "href": "https://docs.mapbox.com/api/overview/",
+          "title": "Mapbox",
+          "desc": "мощный инструмент для разработчиков для работы с картами.Это красивые статичные карты с точными данными о местоположении и с готовыми API."
+        },
+        {
+          "href": "https://datatables.net/",
+          "title": "DataTable",
+          "desc": "сотрировка, фильтрация и поиск по таблице(вроде годная либа)."
+        },
+        {
+          "href": "https://jsonplaceholder.typicode.com/",
+          "title": "JSONPlaceholder",
+          "desc": "Бесплатный поддельный API для тестирования и прототипирования."
+        },
+        {
+          "href": "https://github.com/BMSVieira/moovie.js",
+          "title": "Moovie",
+          "desc": "полностью настраиваемый и простой в использовании медиаплеер для фильмов. Кроссбраузерный, без зависимостей, адаптивный, стандартизированные события и много других преимуществ."
+        },
+        {
+          "href": "https://whois7.ru/",
+          "title": "whois7",
+          "desc": "Сервис для проверки доменов сайта(Кто владелец, когда был создан и т.д)."
+        },
+        {
+          "href": "https://github.com/htmlacademy/HEAD",
+          "title": "HEAD",
+          "desc": "Простое руководство по HTML-элементам в head. Что в этот тего можно добавить."
+        },
+        {
+          "href": "https://hihayk.github.io/scale/#4/6/50/67/-51/67/20/-16/A84A6C/189/74/108/white",
+          "title": "Scale",
+          "desc": "простой и удобный генератор цветовых гамм. Пригодится при подборе цветов для вашего проекта."
+        },
+        {
+          "href": "https://pqina.nl/filepond/",
+          "title": "Filepond",
+          "desc": "библиотека для загрузки файлов.Оптимизирует изображения для более быстрой загрузки и предлагает удобный UX. Особенности / преимущества: ✔️Доступна для React, Vue, Angular, Svelte и jQuery ✔️Поддержка drag-and-drop ✔️Работает на десктопных и на мобильных устройствах ✔️Асинхронная загрузка ✔️Не имеет зависимостей"
+        },
+        {
+          "href": "https://github.com/google/brotli",
+          "title": "Brotli",
+          "desc": "то универсальный алгоритм сжатия без потерь, который сжимает данные, используя комбинацию современного варианта алгоритма LZ77, кодирования Хаффмана и контекстного моделирования 2-го порядка, с коэффициентом сжатия, сравнимым с лучшими доступными в настоящее время методами сжатия общего назначения. Он похож по скорости на deflate, но предлагает более плотное сжатие."
+        },
+        {
+          "href": "https://github.com/microsoft/playwright",
+          "title": "Playwright",
+          "desc": "это платформа для веб-тестирования и автоматизации. Он позволяет тестировать Chromium, Firefox и WebKit с помощью единого API. Playwright создан для обеспечения кросс-браузерной веб-автоматизации, которая всегда актуальна, функциональна, надежна и быстра."
+        },
+        {
+          "href": "https://github.com/rikschennink/fitty",
+          "title": "Fitty",
+          "desc": "JavaScript-библиотека для автоматического масштабирования текста под размер родительского контейнера."
+        },
+        {
+          "href": "https://plyr.io/",
+          "title": "Plyr",
+          "desc": "Плеер для сайта, который может проигрывать аудио и видео HTML5, YouTube и Vimeo."
+        },
+        {
+          "href": "https://day.js.org/ru/",
+          "title": "Day",
+          "desc": "JavaScript-библиотека для парсинга, валидации, управления и отображения дат и времени для современных браузеров, обладающая большой совместимостью с Moment.js API."
+        },
+        {
+          "href": "https://js.langchain.com/docs/get_started/introduction",
+          "title": "LangChain",
+          "desc": "JavaScript-библиотека для разработки приложений на основе больших языковых моделей (LLM)."
+        },
+        {
+          "href": "https://ckeditor.com/",
+          "title": "CKEditor",
+          "desc": "Текстовый редактор JavaScript с чистым пользовательским интерфейсом и современным UX."
+        }
+      ]
+    },
+    {
+      "title": "Обучающая литература",
+      "items": [
+        {
+          "href": "https://github.com/azat-io/you-dont-know-js-ru/blob/master/README.md",
+          "title": "You Don't\r\t\t\t\t\t\t\t\t\tKnow JS",
+          "desc": "перевод серии книг по JavaScript."
+        }
+      ]
+    },
+    {
+      "title": "Email - письма",
+      "items": [
+        {
+          "href": "https://mjml.io/",
+          "title": "mjml",
+          "desc": "сервис для вёрстки email-писем."
+        },
+        {
+          "href": "https://get.foundation/emails.html",
+          "title": "Foundation for\r\t\t\t\t\t\t\t\t\tEmails 2",
+          "desc": "сервис для вёрстки email-писем от разработчиков фреймворка Foundation."
+        }
+      ]
+    }
+  ],
+  "php": [
+    {
+      "title": "PHP",
+      "items": [
+        {
+          "href": "http://mobiledetect.net/",
+          "title": "Mobile Detect",
+          "desc": "библиотека для определения мобильного устройства."
+        },
+        {
+          "href": "https://github.com/PHPMailer/PHPMailer",
+          "title": "PHPMailer",
+          "desc": "библиотека для отправки электронных писем с сайта."
+        },
+        {
+          "href": "https://webhook.site/#!/797a9e99-52e5-4967-911b-d6e543931216",
+          "title": "Webhook",
+          "desc": "Простой и полезный сервис, который выдаёт URL адрес, на который можно отправлять HTTP-запросы и видеть их детали (данные, заголовки). Так же есть временный адрес электронной почты для получения писем. Удобно для отладки вебхуков (калбеков) при интеграции внешних систем."
+        },
+        {
+          "href": "https://frankenphp.dev/",
+          "title": "Franken PHP",
+          "desc": "Новый сервер для PHP. Очень быстрый и простой! Под капотом крутой сервер Caddy с кучей возможностей. Laravel Octane уже поддерживает его из коробки."
+        },
+        {
+          "href": "https://habr.com/ru/articles/855700/",
+          "title": "xdebug в Phpstorm",
+          "desc": "Как в Phpstorm запустить отладку за минуту и без браузера."
+        },
+        {
+          "href": "https://designpatternsphp.readthedocs.io/ru/latest/",
+          "title": "Документация",
+          "desc": "Шаблоны проектирования PHP."
+        }
+      ]
+    }
+  ],
+  "react": [
+    {
+      "title": "React",
+      "items": [
+        {
+          "href": "https://github.com/uber/react-vis",
+          "title": "React-vis",
+          "desc": "Библиотека React-компонентов для визуализации данных в React-приложениях."
+        },
+        {
+          "href": "https://github.com/fkhadra/react-toastify",
+          "title": "React-Toastify",
+          "desc": "Настраиваемая библиотека React для добавления уведомлений в приложение."
+        },
+        {
+          "href": "https://react-select.com/home",
+          "title": "React Select",
+          "desc": "Библиотека React для создания интерактивных и легко настраиваемых выпадающих списков."
+        }
+      ]
+    }
+  ],
+  "vue": [
+    {
+      "title": "Vue",
+      "items": []
+    }
+  ]
+}
