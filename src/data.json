@@ -938,7 +938,373 @@
   "js": [
     {
       "title": "Полезные jQuery/JS плагины",
-      "items": []
+      "items": [
+        {
+          "href": "https://jquery.com/",
+          "title": "jQuery",
+          "desc": "Библиотека jQuery"
+        },
+        {
+          "href": "https://code.jquery.com/jquery/",
+          "title": "jQuery CDN",
+          "desc": "Библиотека jQuery CDN Версия"
+        },
+        {
+          "href": "http://kenwheeler.github.io/slick/",
+          "title": "Slick",
+          "desc": "Адаптивный слайдер"
+        },
+        {
+          "href": "https://swiperjs.com/demos/",
+          "title": "Swiper",
+          "desc": "Современный адаптивный слайдер"
+        },
+        {
+          "href": "https://owlcarousel2.github.io/OwlCarousel2/",
+          "title": "Owl Carousel",
+          "desc": "Адаптивный слайдер-карусель"
+        },
+        {
+          "href": "http://iamceege.github.io/tooltipster/",
+          "title": "Tooltipster",
+          "desc": "Создание всплывающих подсказок"
+        },
+        {
+          "href": "https://flatpickr.js.org/examples/",
+          "title": "Flatpickr",
+          "desc": "Всплывающие окна с выбором даты"
+        },
+        {
+          "href": "https://vodkabears.github.io/vide/",
+          "title": "Vide",
+          "desc": "Видеофон для сайта"
+        },
+        {
+          "href": "https://plugins.jquery.com/maskedinput/",
+          "title": "Masked Input",
+          "desc": "Плагин маски ввода для input"
+        },
+        {
+          "href": "https://github.com/peachananr/onepage-scroll",
+          "title": "One Page Scroll",
+          "desc": "Плагин скролла страницы по секциям в виде слайдера. Демо."
+        },
+        {
+          "href": "https://lokeshdhakar.com/projects/lightbox2/",
+          "title": "Lightbox",
+          "desc": "это библиотека JavaScript, которая отображает изображения и видео, заполняя экран и затемняя остальную часть веб-страницы."
+        },
+        {
+          "href": "https://fancyapps.com/fancybox/3/",
+          "title": "Fancybox",
+          "desc": "это библиотека JavaScript, которая позваляет сделать галерею. Адаптивна под тач устройства и мобильные устройства, легко кастамизируеться."
+        },
+        {
+          "href": "https://github.com/RobinHerbots/Inputmask",
+          "title": "Inputmask",
+          "desc": "это библиотека javascript, которая создает маску ввода телефона есть вариант работы с jQuery и ванильного JS."
+        },
+        {
+          "href": "https://github.com/horprogs/Just-validate",
+          "title": "Just-validate",
+          "desc": "это библиотека javascript для валидации форм ванильный JS."
+        },
+        {
+          "href": "https://www.svgwaves.io/",
+          "title": "SVG Waves",
+          "desc": "генератор SVG-волн для красивого разделения секций страницы."
+        },
+        {
+          "href": "https://biati-digital.github.io/glightbox/",
+          "title": "GLightbox",
+          "desc": "Это JS-библиотека, которая поможет вам создавать галереи из фотографий, видеороликов, карт и любых других встроенных элементов.Библиотека адаптируется под любые экраны."
+        },
+        {
+          "href": "https://jparticles.js.org/#/",
+          "title": "JParticles",
+          "desc": "библиотека для создания эффекта частиц на JavaScript,позволяющая вам создавать анимированные, интерактивные и хорошо кастомизируемые эффекты движущихся частиц на JS."
+        },
+        {
+          "href": "https://kingsora.github.io/OverlayScrollbars/#!overview",
+          "title": "Overlay\n\t\t\t\t\t\t\t\t\tScrollbars",
+          "desc": "JavaScript-плагин, который предоставляет настраиваемые полосы прокрутки и сохраняет встроенную функциональность. Имеет возможность скрыть все типы полос прокрутки. Совместим со всеми современными браузерами."
+        },
+        {
+          "href": "https://github.com/sdandteam/binking",
+          "title": "BinKing",
+          "desc": "инструмент для создания королевских форм приёма банковских карт. BinKing позволяет по номеру карты получить логотип банка, цвета, номер телефона, логотип бренда и прочее. Также BinKing помогает в валидации таких форм."
+        },
+        {
+          "href": "https://imask.js.org/",
+          "title": "imask",
+          "desc": "инструмент для создания масок полей ввода на ванильном JS."
+        },
+        {
+          "href": "https://atomiks.github.io/tippyjs/",
+          "title": "Tippy.js",
+          "desc": "инструмент для создания тултипов на основе Poper.js ."
+        },
+        {
+          "href": "https://threejs.org/",
+          "title": "Three.js",
+          "desc": "инструмент для создания 3D эфектов на JS."
+        },
+        {
+          "href": "https://refreshless.com/nouislider/",
+          "title": "noUiSlider",
+          "desc": "инструмент для создания различных пользунков испоьзуемых в фильтрах."
+        },
+        {
+          "href": "https://refreshless.com/wnumb/",
+          "title": "wNumb.js",
+          "desc": "инструмент для Форматирование чисел и денег испоьзуемых в фильтрах."
+        },
+        {
+          "href": "https://ar-js-org.github.io/AR.js-Docs/",
+          "title": "AR.JS",
+          "desc": "Это библиотека, которая позволит вам создавать AR-приложения прямо в браузере. Вы сможете отображать и обнаруживать через камеру пользователя различные созданные вами объекты. Библиотека основана на Three.js, поэтому она может отображать трехмерные объекты и модели через камеру пользователя."
+        },
+        {
+          "href": "https://rishabhp.github.io/bideo.js/",
+          "title": "Bideo.js",
+          "desc": "Это библиотека для создания фоновых видео. Это легковесная и написанная без зависимостей JavaScript библиотека.Кроме того, ваше видео будет адаптироваться под любые размеры экрана."
+        },
+        {
+          "href": "https://mojs.github.io/",
+          "title": "Mo.js",
+          "desc": "Создание анимаций - одно из самых сложных занятий для начинающего разработчика. Библиотека Mo.js упрощает этот процесс и делает его не только легким, но и приятным. Анимации, созданные с помощью этой библиотеки будут быстро загружаться, плавно воспроизводиться и адаптироваться под любые разрешения экрана. Библиотека стабильно развивается с 2016 года."
+        },
+        {
+          "href": "https://animxyz.com/",
+          "title": "AnimXYZ",
+          "desc": "помогает создавать, настраивать и составлять анимацию для вашего веб-сайта. Работает на переменных CSS, позволяющих создавать практически неограниченное количество уникальных анимаций без написания единого ключевого кадра."
+        },
+        {
+          "href": "https://github.com/Mobius1/Pageable",
+          "title": "Pageable",
+          "desc": "легкая js-библиотека (менее 3 КБ в сжатом виде) без зависимостей, которая преобразует веб-страницу в полноэкранную презентацию с прокруткой."
+        },
+        {
+          "href": "https://github.com/ChrisCavs/rallax.js",
+          "title": "Rallax.js",
+          "desc": "Эта библиотека поможет вам быстро начать создавать плавные фоновые parallax-эффекты. Она написана на чистом JavaScript без зависимостей, проста в использовании. Rallax предлагает отличный API, с помощью которого можно создавать как и простые эффекты, так и нестандартные. Библиотека хорошо кастомизируется - например можно в процессе регулировать скорость изменения параллакса. Также эффекты будут адаптированы под мобильные устройства."
+        },
+        {
+          "href": "https://dollarshaveclub.github.io/shave/",
+          "title": "Shave",
+          "desc": "JS-плагин без зависимостей для обрезки многострочного текста внутри HTML-элемента на основе установленной максимальной высоты. После обрезки он сохраняет разницу исходной текстовой строки в скрытом элементе &lt;span&gt; после видимого текста. Это означает, что исходный текст остается нетронутым!"
+        },
+        {
+          "href": "https://listjs.com/",
+          "title": "List.js",
+          "desc": "библиотека для работы с HTML списками и таблицами. Позволяет сделать поиск, сортировку, редактирование списка с добавлением или удалением элементов."
+        },
+        {
+          "href": "https://harvesthq.github.io/chosen/",
+          "title": "Chosen.js",
+          "desc": "библиотека для оформления выпадающих списков. Позволяет оптимизировать громоздкие выпадающие списки. Работает как с одиночными, так и групповыми полями выбора."
+        },
+        {
+          "href": "https://prevwong.github.io/drooltip.js/",
+          "title": "Drooltip.js",
+          "desc": "библиотека для создания всплывающих подсказок. Позволяет создавать всплывающие подсказки способные отображать простой текст, динамический контент и элементы HTML."
+        },
+        {
+          "href": "https://github.com/alvarotrigo/pagePiling.js",
+          "title": "pagePiling.js",
+          "desc": "Плагин прокрутки секций, имеется множество опций, методов и обратных вызовов для использования, работает на планшетах и мобильных устройствах."
+        },
+        {
+          "href": "https://mathjs.org/",
+          "title": "Math.js",
+          "desc": "математическая библиотека для JavaScript.Поставляется с большим набором встроенных функций и предлагает интегрированные решения для работы с различными типами данных."
+        },
+        {
+          "href": "https://github.com/alfredkam/yakojs",
+          "title": "Yako.js",
+          "desc": "JavaScript-библиотека для создания легких, простых и производительных SVG-графиков."
+        },
+        {
+          "href": "https://sweetalert.js.org/guides/",
+          "title": "SweetAlert.js",
+          "desc": "библиотека JavaScript со всплывающими окнами."
+        },
+        {
+          "href": "https://twitter.github.io/typeahead.js/",
+          "title": "Typeahead.js",
+          "desc": "JavaScript-библиотека с открытым исходным кодом для создания автозаполнения полей поиска."
+        },
+        {
+          "href": "https://izimodal.marcelodolza.com/",
+          "title": "iziModal.js",
+          "desc": "плагин для создания модальных окон, работает на jQuery.Имеются готовые варианты для фрейма, формы, AJAX`a."
+        },
+        {
+          "href": "http://thompsonemerson.github.io/zoomove/",
+          "title": "ZooMove",
+          "desc": "плагин jQuery для масштабирования изображений.Это плагин для jQuery, который дает возможность изменять масштаб изображения во время наведения на него курсор мыши. Вы можете приближать не только целое изображение, но и его отдельные участки за счет перемещения курсора."
+        },
+        {
+          "href": "https://github.com/metafizzy/infinite-scroll",
+          "title": "Infinite-scroll",
+          "desc": "Плагин для бесконечной прокрутки. Позволяет автоматически подгружать следующую страницу на сайт. Особенности / преимущества: ✔️Небольшой вес (5kB) ✔️Возможность работы с WordPress ✔️Легко интегрировать в проект ✔️Возможность настроить функционал"
+        },
+        {
+          "href": "https://progressbarjs.readthedocs.io/en/latest/",
+          "title": "ProgressBar.js",
+          "desc": "JavaScript-библиотека для добавления адаптивных индикаторов прогресса с анимированными SVG-контурами."
+        },
+        {
+          "href": "https://inorganik.github.io/countUp.js/",
+          "title": "CountUp.js",
+          "desc": "JavaScript-библиотека для создания анимации вывода числовых данных."
+        },
+        {
+          "href": "https://tingle.robinparisi.com/",
+          "title": "Tingle.js",
+          "desc": "Минималистичная JavaScript-библиотека без зависимостей для создания модальных окон. Полностью настраиваемые стили в CSS. Создана с учетом UX."
+        },
+        {
+          "href": "http://markdalgleish.com/projects/stellar.js/",
+          "title": "Stellar.js",
+          "desc": "jQuery-плагин для добавления эффекта parallax scrolling на веб-сайт."
+        },
+        {
+          "href": "https://github.com/zurb/twentytwenty",
+          "title": "TwenyTwenty",
+          "desc": "jQuery-плагин до/после для реализации эффекта было/стало на сайте."
+        },
+        {
+          "href": "https://github.com/koenoe/cocoen",
+          "title": "Cocoen",
+          "desc": "jQuery-плагин до/после для реализации эффекта было/стало на сайте."
+        },
+        {
+          "href": "https://github.com/callmecavs/layzr.js",
+          "title": "Layzr",
+          "desc": "Небольшая, быстрая и современная JavaScript-библиотека для отложенной загрузки изображений."
+        },
+        {
+          "href": "https://github.com/wilddeer/Peppermint",
+          "title": "Peppermint",
+          "desc": "Библиотека для создания слайдера для мобильных устройств. - Работает с мышью, тачэвентами, поинтерэвентами, старыми поинтерэвентами из IE10. - Работает на андроидах, айфонах, винфонах, блекберри и на девайсах с 8 виндой. - Работает в IE7+. - Не зависит от сторонних библиотек. Если находит jQuery, регистрирует себя в качестве плагина. - Использует CSS3 трансформы и транзишены с фоллбеком на анимации по таймеру. - Оптимизированные на скорость выполнения touch-функции. - API и callback-функции для расширений. - Работает с клавиатурой, не ломается от кнопки Tab."
+        },
+        {
+          "href": "https://barba.js.org/",
+          "title": "Barba",
+          "desc": "JavaScript-библиотека для создания плавных переходов между страницами веб-сайта."
+        },
+        {
+          "href": "https://sweetalert2.github.io/",
+          "title": "SweetAlert2",
+          "desc": "JavaScript-библиотека для создания пользовательских всплывающих окон."
+        },
+        {
+          "href": "https://js.cytoscape.org/",
+          "title": "Cytoscape",
+          "desc": "JavaScript-библиотека для визуализации и анализа графовых структур в веб-приложениях."
+        },
+        {
+          "href": "https://nanogallery2.nanostudio.org/",
+          "title": "Nanogallery2",
+          "desc": "JavaScript-библиотека для создания красивых адаптивных галерей с удобным лайтбоксом для изображений и видео."
+        },
+        {
+          "href": "https://moment.github.io/luxon/#/",
+          "title": "Luxon.js",
+          "desc": "JavaScript-библиотека для работы с датами и временем."
+        },
+        {
+          "href": "https://www.tiny.cloud/",
+          "title": "TinyMCE",
+          "desc": "JavaScript-библиотека для добавления WYSIWYG-редактора в приложение для создания и редактирования контента."
+        },
+        {
+          "href": "https://ocs.vercel.app/",
+          "title": "Octomments",
+          "desc": "JavaScript-библиотека для добавления виджета комментариев на вашем проекте."
+        },
+        {
+          "href": "https://duetds.github.io/date-picker/",
+          "title": "Date Picker",
+          "desc": "JavaScript-библиотека для добавления на сайт функции выбора даты."
+        },
+        {
+          "href": "https://github.com/RickStrahl/jquery-resizable",
+          "title": "Resizable",
+          "desc": "jQuery-плагин для изменения размера элементов HTML DOM с помощью маркера изменения размера. Он работает с событиями Mouse и Touch, поэтому вы можете изменять размеры элементов на мобильных устройствах."
+        },
+        {
+          "href": "https://isotope.metafizzy.co/",
+          "title": "Isotope",
+          "desc": "JavaScript-библиотека для добавления функции фильтрации и сортировки элементов на странице."
+        },
+        {
+          "href": "https://capjs.js.org/",
+          "title": "Cap.js",
+          "desc": "Современная, легкая и быстрая open-source альтернатива Google reCAPTCHA, использующая механизм proof-of-work (SHA-256) вместо классических головоломок и картинок."
+        },
+        {
+          "href": "https://github.com/TarekRaafat/autoComplete.js",
+          "title": "AutoComplete.js",
+          "desc": "JavaScript-библиотека для добавления функции автозаполнения в полях ввода."
+        },
+        {
+          "href": "https://github.com/davidjerleke/embla-carousel?tab=readme-ov-file",
+          "title": "Embla Carousel",
+          "desc": "JavaScript-библиотека для создания слайдеров и каруселей с плавной анимацией и высокой точностью свайпов.Она не зависит от фреймворков, полностью открыта и поддерживает интеграцию с React, Vue, Svelte и Solid."
+        },
+        {
+          "href": "https://github.com/Artoym715/formCatcher",
+          "title": "formCatcher",
+          "desc": "JavaScript-библиотека для удобной валидации форм.Будет полезна для быстрого внедрения валидации форм в проекты любого уровня сложности."
+        },
+        {
+          "href": "https://github.com/Artoym715/booking-js",
+          "title": "Booking.js",
+          "desc": "JavaScript-библиотека для создания встраиваемого виджета бронирования. Позволяет легко интегрироваться с бэкенд API для сохранения и управления бронированиями."
+        },
+        {
+          "href": "https://github.com/Artoym715/Detect.js",
+          "title": "Detect.js",
+          "desc": "JavaScript-библиотека для обнаружения устройств и браузеров на основе строки navigator.userAgent. Пригодится, если необходимо адаптировать интерфейс или контент под различные платформы и устройства."
+        },
+        {
+          "href": "https://github.com/Artoym715/iziToast",
+          "title": "iziToast.js",
+          "desc": "JavaScript-библиотека для отображения всплывающих уведомлений с гибкими опциями настройки."
+        },
+        {
+          "href": "https://github.com/Artoym715/downshift",
+          "title": "Downshift",
+          "desc": "JavaScript-библиотека для создания выпадающих списков и автозаполнения."
+        },
+        {
+          "href": "https://gabceb.github.io/underscore.string.site/",
+          "title": "Underscore.string",
+          "desc": "JavaScript-библиотека со множеством полезных функций для работы со строками. Функции включают форматирование чисел, вычисление расстояния Левенштейна, преобразование регистра символов и другие."
+        },
+        {
+          "href": "https://github.com/Artoym715/Glider.js",
+          "title": "Glider.js",
+          "desc": "JavaScript-библиотека для добавления прокручиваемых списков в приложения на мобильных устройствах."
+        },
+        {
+          "href": "https://github.com/Artoym715/jump.js",
+          "title": "Jump.js",
+          "desc": "JavaScript-библиотека для добавления на сайт плавной прокрутки к элементам на странице. Будет полезна для лендингов, одностраничных приложений и любых сайтов, где важна плавная навигация между разделами."
+        },
+        {
+          "href": "https://github.com/Artoym715/atropos",
+          "title": "Atropos.js",
+          "desc": "JavaScript-библиотека для создания эффектных, сенсорных 3D параллакс-ховеров."
+        },
+        {
+          "href": "https://github.com/kornelski/slip",
+          "title": "Slip.js",
+          "desc": "JavaScript-библиотека для создания интерактивных списков с поддержкой свайпов и перетаскивания элементов на сенсорных экранах. Будет полезна для добавления свойств свайпа и drag-and-drop сортировку в мобильные веб-интерфейсы."
+        }
+      ]
     }
   ],
   "laravel": [
