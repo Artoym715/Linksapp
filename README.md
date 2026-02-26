@@ -1,16 +1,33 @@
-# React + Vite
+# Linksapp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Это одностраничное (SPA) React-приложение, созданное с использованием Vite. Оно предназначено для хранения и отображения ссылок (закладок).
 
-Currently, two official plugins are available:
+## Технологический стек
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Сборщик:** Vite
+* **Библиотека UI:** React 19
+* **Стилизация:** Bootstrap 5
+* **Анализ кода:** ESLint
 
-## React Compiler
+## Локальный запуск скриптов
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+В директории проекта вы можете запускать следующие команды:
 
-## Expanding the ESLint configuration
+### `npm run dev`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Запускает приложение в режиме разработки.
+Откройте [http://localhost:5173](http://localhost:5173) для просмотра в браузере.
+
+### `npm run build`
+
+Собирает приложение для production в папку `dist`.
+Сборка минифицирована, а имена файлов содержат хеши для оптимального кэширования.
+
+### `npm run lint`
+
+Запускает проверку кода линтером (`eslint .`).
+
+## Развертывание (Деплой)
+
+Проект настроен на **автоматический деплой** на GitHub Pages через GitHub Actions. 
+При каждом коммите (push) в ветку `main` или `master`, запускается CI/CD процесс (`.github/workflows/deploy.yml`), который собирает проект и публикует содержимое папки `dist` на GitHub Pages.
