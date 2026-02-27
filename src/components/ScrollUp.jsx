@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-
+import '../css/main.css'
 const ScrollUp = () => {
   const [isActive, setIsActive] = useState(false);
   const pathRef = useRef(null);
@@ -60,7 +60,7 @@ const ScrollUp = () => {
           d="M15,26 L24,17 L33,26" 
           fill="none" 
           stroke="currentColor" 
-          strokeWidth="3" 
+          strokeWidth="1" 
           strokeLinecap="round" 
           strokeLinejoin="round"
         />
