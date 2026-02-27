@@ -1,5 +1,5 @@
-import logo from '../assets/Grizly2.svg';
-import githubLogo from '../assets/github-logo.svg';
+import logo from '/public/Grizly2.svg';
+import githubLogo from '/public/github-logo.svg';
 
 export default function Header(){
 	return(

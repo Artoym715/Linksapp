@@ -1,4 +1,4 @@
-import footerLogo from '../assets/Grizly3.svg';
+import footerLogo from '/public/Grizly3.svg';
 
 export default function Footer(){
 	return(
