@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 
-export default function CategorySection({ id, sectionsData, searchQuery = '' }) {
+export default function CategorySection ({ id, sectionsData, searchQuery = '' }) {
 	// Использование useMemo для оптимизации фильтрации
 	const filteredSections = useMemo(() => {
 		const query = searchQuery.toLowerCase();

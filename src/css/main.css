@@ -1,6 +1,11 @@
+.container-fluid {
+   --bs-gutter-x: 0 !important;
+}
+
 html, body{
   scroll-behavior: smooth;
 }
+
 
 .header {
   padding-top: 30px;
