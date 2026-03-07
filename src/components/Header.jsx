@@ -22,7 +22,7 @@ export default function Header(){
 				<div className="col-lg-6">
 					<h1 className="header__title">Полезные ссылки 👨‍💻 для&nbsp;веб-разработчика</h1>
 					<p className="header__text">Программы, сервисы и сайты, которые помогут в работе.</p>
-					<a href="https://github.com/Artoym715/Links" className="btn btn-primary p-2 mx-1"> <span className="button-text">Добавить
+					<a href="https://github.com/Artoym715/Linksapp" className="btn btn-primary p-2 mx-1"> <span className="button-text">Добавить
 							свою ссылку</span> <img className="button-img" src={githubLogo} alt=""/></a>
 					<a href="https://github.com/Artoym715" target="blank" className="btn btn-primary p-2">
 						<span className="button-text">Мой Github</span> <img className="button-img" src={githubLogo}
