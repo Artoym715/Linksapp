@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import '../css/main.css'
 
-export default function ScrollUp() {
+export const ScrollUp = () => {
   const [isActive, setIsActive] = useState(false);
   const pathRef = useRef(null);
 

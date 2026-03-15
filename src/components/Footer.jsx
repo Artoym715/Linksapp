@@ -1,6 +1,6 @@
 import footerLogo from '/public/Grizly3.svg';
 
-export default function Footer(){
+export const Footer = () => {
 	return(
 		<>
 		<footer>

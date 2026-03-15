@@ -1,6 +1,6 @@
-import CategorySection from './CategorySection';
+import { CategorySection } from './CategorySection';
 import data from '../data.json';
 
-export default function Code({ searchQuery }) {
+export const Code = ({ searchQuery }) => {
 	return <CategorySection id="code" sectionsData={data.code} searchQuery={searchQuery} />;
 }

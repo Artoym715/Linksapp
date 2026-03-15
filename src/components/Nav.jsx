@@ -1,4 +1,4 @@
-export default function Nav({ activeFilter, setActiveFilter }) {
+export const Nav = ({ activeFilter, setActiveFilter }) => {
 	const navItems = [
 		{ id: 'all', label: 'ALL' },
 		{ id: 'code', label: 'CODE' },

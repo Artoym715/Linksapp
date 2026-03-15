@@ -1,6 +1,6 @@
-import CategorySection from './CategorySection';
+import { CategorySection } from './CategorySection';
 import data from '../data.json';
 
-export default function Crib({ searchQuery }) {
+export const Crib = ({ searchQuery }) => {
 	return <CategorySection id="crib" sectionsData={data.crib} searchQuery={searchQuery} />;
 }

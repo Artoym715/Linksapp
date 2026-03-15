@@ -1,24 +1,24 @@
 import { useState } from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Nav from './components/Nav';
-import Code from './components/Code';
-import CSS from './components/CSS';
-import Hacks from './components/Hacks';
-import Php from './components/Php';
-import Laravel from './components/Laravel';
-import Components from './components/Components';
-import React from './components/React';
-import Vue from './components/Vue';
-import Fonts from './components/Fonts';
-import Js from './components/Js';
-import Crib from './components/Crib';
-import Graphics from './components/Graphics';
-import Animations from './components/Animations';
-import Other from './components/Other';
-import ScrollUp from './components/ScrollUp';
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
+import { Nav } from './components/Nav';
+import { Code } from './components/Code';
+import { CSS } from './components/CSS';
+import { Hacks } from './components/Hacks';
+import { Php } from './components/Php';
+import { Laravel } from './components/Laravel';
+import { Components } from './components/Components';
+import { React } from './components/React';
+import { Vue } from './components/Vue';
+import { Fonts } from './components/Fonts';
+import { Js } from './components/Js';
+import { Crib } from './components/Crib';
+import { Graphics } from './components/Graphics';
+import { Animations } from './components/Animations';
+import { Other } from './components/Other';
+import { ScrollUp } from './components/ScrollUp';
 
-export default function App() {
+export const App = () => {
   const [activeFilter, setActiveFilter] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
 
