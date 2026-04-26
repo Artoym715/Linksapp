@@ -1547,6 +1547,11 @@
           "href": "https://github.com/azat-io/you-dont-know-js-ru/blob/master/README.md",
           "title": "You Don't\r\t\t\t\t\t\t\t\t\tKnow JS",
           "desc": "перевод серии книг по JavaScript."
+        },
+        {
+          "href": "https://backendinterview.ru/",
+          "title": "Памятка PHP/GoLang разработчику",
+          "desc": "для подготовки к собеседованиям"
         }
       ]
     },
